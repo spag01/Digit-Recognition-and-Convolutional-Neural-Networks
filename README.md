@@ -2,7 +2,7 @@
 # Overview:
 This project involves implementing a Convolutional Neural Network (CNN) for recognizing numeric characters. The primary dataset for training and testing is the MNIST dataset. The project is structured to guide you through understanding, implementing, and applying CNNs to real-world digit recognition tasks. The project is divided into five parts, focusing on different aspects of CNNs and their application in image recognition.
 
-# Objectives:
+## Objectives:
 1. Understand and implement the components of a CNN: Gain a deep understanding of the convolutional layer, pooling layer, fully connected layer, and activation functions.
 2. Implement forward and backward propagation: Write code for forward and backward passes in a neural network, enabling the CNN to learn from data.
 3. Train and test the network: Use the MNIST dataset to train your CNN and evaluate its performance on test data.
