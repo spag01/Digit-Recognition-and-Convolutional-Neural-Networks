@@ -18,7 +18,7 @@ This project involves implementing a Convolutional Neural Network (CNN) for reco
 6. Real-world Application: Implement a pipeline for preprocessing real-world images, detecting digits, and recognizing them using the trained CNN.
    
 ## Deliverables:
-#Code#: A complete set of MATLAB files implementing the CNN, training, and testing procedures.
+Code: A complete set of MATLAB files implementing the CNN, training, and testing procedures.
 MATLAB files for each layer implementation (conv_layer.m, pooling_layer.m, inner_product.m, etc.).
 Training script (train_lenet.m) and testing script (test_network.m).
 Utility scripts for data loading, visualization, and other auxiliary functions.
